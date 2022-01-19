@@ -735,7 +735,7 @@
       /*! @angular/core */
       2316);
 
-      var UrlLocal = 'http://localhost:4200';
+      var UrlLocal = 'https://alexasitimbay.github.io/bitcloud/';
       var UrlPublic = 'https://muestra-test.azurewebsites.net';
       var clientidPublic = '367ff126-71a5-4722-9cfa-e7cde618bcc9';
       var clientLocal = 'fcb58c9d-0704-4611-9017-e844593d91e4';
@@ -750,7 +750,7 @@
       } //export function MSALInterceptorConfigFactory(): MsalInterceptorConfiguration {
       //  const protectedResourceMap = new Map<string, Array<string>>();
       //  protectedResourceMap.set('https://graph.microsoft.com/v1.0/me', ['user.read', 'mail.read']);
-      // /* protectedResourceMap.set('http://localhost:4200', ['api://8cd74692-0942-43b8-915e-51b1a5e1806c']);*/
+      // /* protectedResourceMap.set('https://alexasitimbay.github.io/bitcloud/', ['api://8cd74692-0942-43b8-915e-51b1a5e1806c']);*/
       //  return {
       //    interactionType: InteractionType.Redirect,
       //    protectedResourceMap
